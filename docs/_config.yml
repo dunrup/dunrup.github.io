@@ -23,10 +23,10 @@ email: ruprecht@uchicago.edu
 description: >- # this means to ignore newlines until "baseurl:"
   site description tbd. for now, just a test
 domain: dunrup.github.io
-baseurl: dunrup.github.io # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://dunrup.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: testtwitteruser
-github_username:  testgithubuser
+twitter_username: n/a
+github_username:  dunrup
 
 # Build settings
 theme: minima
