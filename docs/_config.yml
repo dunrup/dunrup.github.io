@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Daniel Ruprecht
+title: Daniel's blog, coming soon or never
 email: ruprecht@uchicago.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  site description tbd. for now, just a test
+  site description tbd
 domain: dunrup.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://dunrup.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: n/a
+#twitter_username: n/a
 github_username:  dunrup
 
 # Build settings
